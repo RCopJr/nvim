@@ -13,6 +13,7 @@ return {
         "lua-language-server",
         "typescript-language-server",
         "tailwindcss-language-server",
+        "intelephense",
 
         -- install formatters
         "stylua",
