@@ -14,6 +14,7 @@ return {
         "typescript-language-server",
         "tailwindcss-language-server",
         "intelephense",
+        "eslint-lsp",
 
         -- install formatters
         "stylua",
