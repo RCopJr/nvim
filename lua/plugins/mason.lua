@@ -15,6 +15,7 @@ return {
         "tailwindcss-language-server",
         "intelephense",
         "eslint-lsp",
+        "marksman",
 
         -- install formatters
         "stylua",
