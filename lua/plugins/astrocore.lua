@@ -44,6 +44,9 @@ return {
         signcolumn = "yes", -- sets vim.opt.signcolumn to yes
         wrap = true, -- sets vim.opt.wrap
         scrolloff = 10,
+        foldenable = false, -- don't open with folds
+        foldmethod = "manual", -- don't use syntax/indent folds
+        foldcolumn = "0",
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
